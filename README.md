@@ -21,7 +21,7 @@
 
 ### 📫 Let's Connect!  
 - 🏗️ [Portfolio](http://pranab.infinityfreeapp.com/portfolio/)  
-- 🔗 [LinkedIn]()  
+- 🔗 [Github](https://github.com/rnccsstudent)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/pranab28042002/)  
 - 💬 Feel free to reach out for collaborations or discussions on tech!  
 
